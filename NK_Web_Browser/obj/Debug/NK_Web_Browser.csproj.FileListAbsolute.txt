@@ -1,0 +1,10 @@
+C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\bin\Debug\NK_Web_Browser.exe.config
+C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\bin\Debug\NK_Web_Browser.exe
+C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\bin\Debug\NK_Web_Browser.pdb
+C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.csprojAssemblyReference.cache
+C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.Properties.Resources.resources
+C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.csproj.GenerateResource.cache
+C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.csproj.CoreCompileInputs.cache
+C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.exe
+C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.pdb
+C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.MainForm.resources
