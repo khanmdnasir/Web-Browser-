@@ -41,6 +41,8 @@ namespace NK_Web_Browser
             this.HomeToolStripButton = new System.Windows.Forms.ToolStripButton();
             this.AddressToolStripComboBox = new System.Windows.Forms.ToolStripComboBox();
             this.GoToolStripButton = new System.Windows.Forms.ToolStripButton();
+            this.toolsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.settingsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.toolStripContainer1.ContentPanel.SuspendLayout();
             this.toolStripContainer1.TopToolStripPanel.SuspendLayout();
@@ -52,6 +54,7 @@ namespace NK_Web_Browser
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileToolStripMenuItem,
+            this.toolsToolStripMenuItem,
             this.helpToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
@@ -85,7 +88,7 @@ namespace NK_Web_Browser
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(107, 22);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.aboutToolStripMenuItem.Text = "&About";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
@@ -128,7 +131,7 @@ namespace NK_Web_Browser
             this.GoToolStripButton});
             this.toolStrip1.Location = new System.Drawing.Point(3, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(591, 25);
+            this.toolStrip1.Size = new System.Drawing.Size(560, 25);
             this.toolStrip1.TabIndex = 0;
             // 
             // HomeToolStripButton
@@ -156,6 +159,21 @@ namespace NK_Web_Browser
             this.GoToolStripButton.Name = "GoToolStripButton";
             this.GoToolStripButton.Size = new System.Drawing.Size(23, 22);
             this.GoToolStripButton.Click += new System.EventHandler(this.GoToolStripButton_Click);
+            // 
+            // toolsToolStripMenuItem
+            // 
+            this.toolsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.settingsToolStripMenuItem});
+            this.toolsToolStripMenuItem.Name = "toolsToolStripMenuItem";
+            this.toolsToolStripMenuItem.Size = new System.Drawing.Size(47, 20);
+            this.toolsToolStripMenuItem.Text = "&Tools";
+            // 
+            // settingsToolStripMenuItem
+            // 
+            this.settingsToolStripMenuItem.Name = "settingsToolStripMenuItem";
+            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.settingsToolStripMenuItem.Text = "&Settings";
+            this.settingsToolStripMenuItem.Click += new System.EventHandler(this.settingsToolStripMenuItem_Click);
             // 
             // MainForm
             // 
@@ -196,6 +214,8 @@ namespace NK_Web_Browser
         private System.Windows.Forms.ToolStripButton HomeToolStripButton;
         private System.Windows.Forms.ToolStripComboBox AddressToolStripComboBox;
         private System.Windows.Forms.ToolStripButton GoToolStripButton;
+        private System.Windows.Forms.ToolStripMenuItem toolsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem settingsToolStripMenuItem;
     }
 }
 

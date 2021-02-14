@@ -8,3 +8,14 @@ C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Brows
 C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.exe
 C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.pdb
 C:\Users\nk99t\source\repos\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.MainForm.resources
+H:\C# projects\NK_Web_Browser\NK_Web_Browser\bin\Debug\NK_Web_Browser.exe.config
+H:\C# projects\NK_Web_Browser\NK_Web_Browser\bin\Debug\NK_Web_Browser.exe
+H:\C# projects\NK_Web_Browser\NK_Web_Browser\bin\Debug\NK_Web_Browser.pdb
+H:\C# projects\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.csprojAssemblyReference.cache
+H:\C# projects\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.MainForm.resources
+H:\C# projects\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.Properties.Resources.resources
+H:\C# projects\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.SettingsForm.resources
+H:\C# projects\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.csproj.GenerateResource.cache
+H:\C# projects\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.csproj.CoreCompileInputs.cache
+H:\C# projects\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.exe
+H:\C# projects\NK_Web_Browser\NK_Web_Browser\obj\Debug\NK_Web_Browser.pdb

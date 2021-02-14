@@ -27,16 +27,22 @@ namespace NK_Web_Browser
             MessageBox.Show("All rights reserved Program with nk 2021", "Nk_WebBrowser", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
+        private string homePage = Properties.Settings.Default.HomePage;
         private void MainForm_Load(object sender, EventArgs e)
         {
-            nk_webBrowser.Navigate("http://www.google.co.uk");
-            AddressToolStripComboBox.Text = "http://www.google.co.uk";
+            NavigateToAddress(homePage);
+            AddressToolStripComboBox.Text =homePage;
+        }
+
+        private void NavigateToAddress(string address)
+        {
+            nk_webBrowser.Navigate(address);
         }
 
         private void HomeToolStripButton_Click(object sender, EventArgs e)
         {
-            nk_webBrowser.Navigate("http://www.google.co.uk");
-            AddressToolStripComboBox.Text = "http://www.google.co.uk";
+            NavigateToAddress(homePage);
+            AddressToolStripComboBox.Text = homePage;
         }
 
         private void GoToolStripButton_Click(object sender, EventArgs e)
@@ -52,5 +58,10 @@ namespace NK_Web_Browser
             }
         }
 
+        private void settingsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SettingsForm sf = new SettingsForm();
+            sf.ShowDialog();
+        }
     }
 }
